@@ -3,8 +3,8 @@ Inspiration taken from frontendmentor.io
 
 #React To-Do Web Appliation
 
-UI preview-
-<img src="/src/to-do-preview.png" alt="preview" style="height: 300px; width:400px;"/>
+
+<img src="/to-do-preview.png" alt="preview" />
 
 
 
