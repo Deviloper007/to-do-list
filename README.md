@@ -3,6 +3,11 @@ Inspiration taken from frontendmentor.io
 
 #React To-Do Web Appliation
 
+UI preview-
+<img src="/assets/img/MarineGEO_logo.png" alt="preview" style="height: 300px; width:400px;"/>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
